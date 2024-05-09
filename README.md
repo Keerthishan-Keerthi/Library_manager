@@ -3,7 +3,7 @@
 This is a native Andriod App Developed using Andriod Studio.
 This app is useful ina managing a library from your Addroid device.
 
-This app uses an SQLite databse to store the data. 
+This app uses an SQLite database to store the data. 
 
 This app contains following fuctionalities:
 - Adding entries to the database
