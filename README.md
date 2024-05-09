@@ -14,4 +14,4 @@ This app contains following fuctionalities:
   - Toast Messages are used to guide the users
   - user friendly color pallette is uses throught the system
   - UI consistency is maintained
-  - Image buttons are used for improves clarity
+  - Image buttons are used for improved clarity
